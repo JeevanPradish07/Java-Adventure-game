@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Java Adventure Game",
+            "type": "java",
+            "name": "Launch AdvancedAdventureGameGUI",
+            "request": "launch",
+            "mainClass": "AdvancedAdventureGameGUI",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
